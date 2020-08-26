@@ -13,8 +13,12 @@
 
         <label for = "pass"> PassWord: </label>
         <input type = "password" id = "pass">
+        
+        <button id = "btn">ENTER</button>
 
     </form>
+    
+     <script src = "userData.js"></script>
 
 </body>
 </html>
