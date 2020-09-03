@@ -1,0 +1,31 @@
+body{
+    opacity: 50%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-image: url("https://static.vecteezy.com/packs/media/components/home/masthead-vectors/img/lavakidneys_800x400@2x-2db5e5a0c944e2b16a11a18674570f76.jpg");
+}
+
+div {
+    background-color: coral; /*color of the div tag composed of other elements*/
+    text-align:center; /*make content aligned to center in relation to window/screen*/
+    /*color:navajowhite; /*color of the words within div tag*/
+    color: white;
+    width: auto;
+    padding: 20px 100px;/*top and bottom(20px) then left and right*/
+    margin:20px 100px; /*top and bottom then left and right(100px)*/
+
+}
+
+nav
+{
+    background-color: bisque;
+    font-size:15px;
+    padding: 20px 100px;/*top and bottom(20px) then left and right*/
+    margin:20px 100px; /*top and bottom then left and right(100px)*/
+    border:red;
+
+}
+
+
+
+#centerTopNav{}
